@@ -1,0 +1,19 @@
+{
+  "name": "Amazon Taksitli Telefonlar",
+  "short_name": "Taksitli Telefonlar",
+  "description": "Amazon Türkiye'de taksit seçeneği bulunduğu tespit edilen ürünleri inceleme listesi.",
+  "lang": "tr-TR",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#ff9800",
+  "background_color": "#f8f9fa",
+  "icons": [
+    {
+      "src": "amazon-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

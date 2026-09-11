@@ -1,0 +1,23 @@
+# node / scraper files
+node_modules/
+*.log
+*.js
+*.json
+test.html
+# mac systems files
+.DS_Store
+
+# Keep browser regression tests versioned.
+!tests/
+!tests/ui.test.js
+!tests/advanced.test.js
+!tests/test_update_price_history.py
+!tests/history-analysis.test.js
+!tests/price-alerts.test.js
+!assets/
+!assets/*.js
+!manifest.webmanifest
+!data/
+!data/*.json
+__pycache__/
+*.pyc

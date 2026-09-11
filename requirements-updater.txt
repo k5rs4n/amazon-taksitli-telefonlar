@@ -1,0 +1,2 @@
+# Amazon Creators API client; Python >= 3.9
+python-amazon-paapi==7.0.0

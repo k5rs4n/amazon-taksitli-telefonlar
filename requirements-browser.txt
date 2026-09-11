@@ -1,0 +1,2 @@
+# Public product-page browser updater
+playwright==1.62.0
