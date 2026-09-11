@@ -1,0 +1,76 @@
+{
+  "version": 2,
+  "source": "amazon-browser-visible",
+  "note": "Fiyat ve stok bilgisi herkese açık Amazon Türkiye ürün sayfasından gözlemlendi; satın alma öncesinde Amazon sayfasında yeniden doğrulanmalıdır.",
+  "currency": "TRY",
+  "products": {
+    "B0HCCFQR78": {
+      "title": "General Mobile Gm 26 5G 8+128 GB Akıllı Telefon Siyah",
+      "priceType": "visible-offer-price",
+      "points": [
+        {
+          "observedAt": "2026-09-11T19:59:49Z",
+          "price": 14999,
+          "currency": "TRY",
+          "priceType": "visible-offer-price",
+          "source": "amazon-browser-visible",
+          "availability": "in_stock"
+        },
+        {
+          "observedAt": "2026-09-11T20:00:57Z",
+          "price": 14999,
+          "currency": "TRY",
+          "priceType": "visible-offer-price",
+          "source": "amazon-browser-visible",
+          "availability": "in_stock"
+        }
+      ]
+    },
+    "B0HCCS6JTX": {
+      "title": "General Mobile Gm 26 Pro 5G 12+256 GB Akıllı Telefon, Yıldız Tozu Altın",
+      "priceType": "visible-offer-price",
+      "points": [
+        {
+          "observedAt": "2026-09-11T19:59:49Z",
+          "price": 25999,
+          "currency": "TRY",
+          "priceType": "visible-offer-price",
+          "source": "amazon-browser-visible",
+          "availability": "in_stock"
+        },
+        {
+          "observedAt": "2026-09-11T20:00:57Z",
+          "price": 25999,
+          "currency": "TRY",
+          "priceType": "visible-offer-price",
+          "source": "amazon-browser-visible",
+          "availability": "in_stock"
+        }
+      ]
+    },
+    "B0BJ2WHW4B": {
+      "title": "Redmi Pad 6GB Ram, 128GB Depolama, Ay Işığı Grisi (Xiaomi Türkiye Garantili)",
+      "priceType": "visible-offer-price",
+      "points": [
+        {
+          "observedAt": "2026-09-11T19:59:49Z",
+          "price": 13999,
+          "currency": "TRY",
+          "priceType": "visible-offer-price",
+          "source": "amazon-browser-visible",
+          "availability": "in_stock"
+        },
+        {
+          "observedAt": "2026-09-11T20:00:57Z",
+          "price": 13999,
+          "currency": "TRY",
+          "priceType": "visible-offer-price",
+          "source": "amazon-browser-visible",
+          "availability": "in_stock"
+        }
+      ]
+    }
+  },
+  "generatedAt": "2026-09-11T20:00:57Z",
+  "staleAfterHours": 24
+}
